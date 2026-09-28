@@ -262,3 +262,11 @@ body {
   min-height: 1.4em;
   margin-top: 14px;
 }
+
+.lede span {
+  display: block;
+}
+
+.lede span + span {
+  margin-top: 12px;
+}
